@@ -1,0 +1,1398 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@" : {
+
+    },
+    "%@: Not Completed" : {
+
+    },
+    "%lld steps" : {
+
+    },
+    "ACCOUNT_NEXT" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Next"
+          }
+        }
+      }
+    },
+    "ACCOUNT_SETUP_DESCRIPTION" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You may login to your existing account. Or create a new one if you don't have one already."
+          }
+        }
+      }
+    },
+    "ACCOUNT_SIGNED_IN_DESCRIPTION" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You are already logged in with the account shown below. Continue or change your account by logging out."
+          }
+        }
+      }
+    },
+    "ACCOUNT_SUBTITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welcome to PICS! Set up your account to start tracking your information."
+          }
+        }
+      }
+    },
+    "ACCOUNT_TITLE" : {
+      "comment" : "MARK: Account",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your Account"
+          }
+        }
+      }
+    },
+    "ALEXANDER_BARTSCHKE_BIO" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alexander Bartschke is a trained Medical Information Manager with extensive expertise in interoperability, digital medicine, Patient-Reported Outcome Measures (PROMs), and clinical research. His participation in [...]"
+          }
+        }
+      }
+    },
+    "APPOINTMENTS_NAVIGATION_TITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Appointments"
+          }
+        }
+      }
+    },
+    "APPOINTMENTS_TAB_TITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Appointments"
+          }
+        }
+      }
+    },
+    "APPT_REMINDER" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Appointment Reminder"
+          }
+        }
+      }
+    },
+    "APPT1_TITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Appointment 1"
+          }
+        }
+      }
+    },
+    "APPT2_TITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Appointment 2"
+          }
+        }
+      }
+    },
+    "APPTQ_0" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Discharge Date:"
+          }
+        }
+      }
+    },
+    "APPTQ_1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "First Follow-Up Appointment:"
+          }
+        }
+      }
+    },
+    "APPTQ_2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Second Follow-Up Appointment:"
+          }
+        }
+      }
+    },
+    "APPTQ_SUBTITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please enter information on your discharge date and follow-up appointments:"
+          }
+        }
+      }
+    },
+    "APPTQ_TITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Appointment Information"
+          }
+        }
+      }
+    },
+    "ASSESSMENT_RESULTS_BTN" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retake Assessment"
+          }
+        }
+      }
+    },
+    "ASSESSMENT_SUMMARY" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your assessment result at "
+          }
+        }
+      }
+    },
+    "ASSESSMENT_SUMMARY_LAST" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your last assessment result at "
+          }
+        }
+      }
+    },
+    "ASSESSMENT_TM_START_BTN" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start Assessment"
+          }
+        }
+      }
+    },
+    "ASSESSMENT_VIZ_ERRORCNT" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error Count"
+          }
+        }
+      }
+    },
+    "ASSESSMENT_VIZ_SCORE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Score"
+          }
+        }
+      }
+    },
+    "ASSESSMENT_VIZ_TIME" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Time Spent (seconds)"
+          }
+        }
+      }
+    },
+    "ASSESSMENTS_NAVIGATION_TITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Assessments"
+          }
+        }
+      }
+    },
+    "ASSESSMENTS_TAB_TITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Assessments"
+          }
+        }
+      }
+    },
+    "Cancel" : {
+
+    },
+    "CLOSE" : {
+      "comment" : "MARK: General",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Close"
+          }
+        }
+      }
+    },
+    "COMPLETED_TASK_LABEL %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Completed Task: %@"
+          }
+        }
+      }
+    },
+    "CONSENT_LOADING_ERROR" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please include a markdown based document named \"ConsentDocument\" in your module Bundle."
+          }
+        }
+      }
+    },
+    "CONTACTS_NAVIGATION_TITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contacts"
+          }
+        }
+      }
+    },
+    "CONTACTS_TAB_TITLE" : {
+      "comment" : "MARK: - Contacts",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contacts"
+          }
+        }
+      }
+    },
+    "CONTRIBUTIONS_LIST_DESCRIPTION" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The following list contains all Swift Package dependencies of the SpeziPICS."
+          }
+        }
+      }
+    },
+    "CONTRIBUTIONS_LIST_FOOTER" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please refer to the individual repository links for packages without license labels."
+          }
+        }
+      }
+    },
+    "CONTRIBUTIONS_LIST_HEADER" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Packages"
+          }
+        }
+      }
+    },
+    "Date and Time:" : {
+
+    },
+    "EDIT_APPT_HEADER" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit Appointments"
+          }
+        }
+      }
+    },
+    "EDUARDO_SALGADO_BIO" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dr. Eduardo Salgado is an anaesthesiologist and researcher. He graduated from the Faculty of Medicine of the Universidad de Chile in Santiago and obtained his doctoral degree at the University of Heidelberg. [...]"
+          }
+        }
+      }
+    },
+    "EQ5D5L_DESCRIPTION" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tell us about your Activity and Physical Health every 2 weeks..."
+          }
+        }
+      }
+    },
+    "EQ5D5L_TITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "EQ-5D-5L: Patient Physical Health Questionnaire"
+          }
+        }
+      }
+    },
+    "Error Count" : {
+
+    },
+    "Failed to get dates" : {
+
+    },
+    "Get Directions" : {
+
+    },
+    "GETTING_HERE_HEADING" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Getting Here"
+          }
+        }
+      }
+    },
+    "Health" : {
+
+    },
+    "HEALTHKIT_PERMISSIONS_BUTTON" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grant Access"
+          }
+        }
+      }
+    },
+    "HEALTHKIT_PERMISSIONS_DESCRIPTION" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PICS would like to share your heart rate, oxygen saturation, and step count data with your in-hospital medical team."
+          }
+        }
+      }
+    },
+    "HEALTHKIT_PERMISSIONS_SUBTITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Collecting your HealthKit data is essential for PICS to improve your recovery."
+          }
+        }
+      }
+    },
+    "HEALTHKIT_PERMISSIONS_TITLE" : {
+      "comment" : "MARK: HealthKit",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PICS HealthKit Access"
+          }
+        }
+      }
+    },
+    "Heart Rate Per Minute" : {
+
+    },
+    "HKVIZ_AVERAGE_STRING" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Daily Average: "
+          }
+        }
+      }
+    },
+    "HKVIZ_MAX_STRING" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maximum: "
+          }
+        }
+      }
+    },
+    "HKVIZ_MIN_STRING" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minimum: "
+          }
+        }
+      }
+    },
+    "HKVIZ_NAVIGATION_TITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Health Dashboard"
+          }
+        }
+      }
+    },
+    "HKVIZ_PLOT_HEART_TITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heart Rate"
+          }
+        }
+      }
+    },
+    "HKVIZ_PLOT_OXYGEN_RECOMD" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Having your oxygen saturation over 94% is a good health indicator."
+          }
+        }
+      }
+    },
+    "HKVIZ_PLOT_OXYGEN_TITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oxygen Saturation (%)"
+          }
+        }
+      }
+    },
+    "HKVIZ_PLOT_STEP_RECOMD" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "We recommend to walk more than 5000 steps each day."
+          }
+        }
+      }
+    },
+    "HKVIZ_PLOT_STEP_TITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Step Count"
+          }
+        }
+      }
+    },
+    "HKVIZ_SUMMARY" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your summary for "
+          }
+        }
+      }
+    },
+    "HKVIZ_TAB_TITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Health"
+          }
+        }
+      }
+    },
+    "INTERESTING_MODULES_AREA1_DESCRIPTION" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Introduce yourself once (ID, name, gender identity, date of birth)"
+          }
+        }
+      }
+    },
+    "INTERESTING_MODULES_AREA1_TITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sign in"
+          }
+        }
+      }
+    },
+    "INTERESTING_MODULES_AREA2_DESCRIPTION" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fill short questionnaire about your mood and well-being everyday"
+          }
+        }
+      }
+    },
+    "INTERESTING_MODULES_AREA2_TITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fill the questionnaire"
+          }
+        }
+      }
+    },
+    "INTERESTING_MODULES_AREA3_DESCRIPTION" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PICS will track your activities, like step count"
+          }
+        }
+      }
+    },
+    "INTERESTING_MODULES_AREA3_TITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exercise"
+          }
+        }
+      }
+    },
+    "INTERESTING_MODULES_AREA4_DESCRIPTION" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every 10 mins PICS will collect your heart-rate, oxygen saturation and other parameters of your body"
+          }
+        }
+      }
+    },
+    "INTERESTING_MODULES_AREA4_TITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wear Apple Watch"
+          }
+        }
+      }
+    },
+    "INTERESTING_MODULES_BUTTON" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Next"
+          }
+        }
+      }
+    },
+    "INTERESTING_MODULES_SUBTITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "just follow simple steps:"
+          }
+        }
+      }
+    },
+    "INTERESTING_MODULES_TITLE" : {
+      "comment" : "MARK: Interesting Modules",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How PICS works"
+          }
+        }
+      }
+    },
+    "JULIAN_SASS_BIO" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Julian Saß is a registered nurse, health economist and medical informatics specialist with several years of professional experience in research and healthcare. He is active in the field of standardization at at HL7 Germany [...]"
+          }
+        }
+      }
+    },
+    "LICENSE_INFO_TITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "License Information"
+          }
+        }
+      }
+    },
+    "LOCATION_NAME" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ambulanz:   Charité Virchow Clinic"
+          }
+        }
+      }
+    },
+    "Measurement" : {
+
+    },
+    "MEDICATION_SUBTITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please upload a photo of your medication chart. "
+          }
+        }
+      }
+    },
+    "MEDICATION_TITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Medication Information"
+          }
+        }
+      }
+    },
+    "MiniNutritional_DESCRIPTION" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tell us about your Nutritional Habits every 2 weeks..."
+          }
+        }
+      }
+    },
+    "MiniNutritional_TITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Self-MNA: Mini Nutritional Assessment"
+          }
+        }
+      }
+    },
+    "NOTIF_CONTENT" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You have an upcoming appointment on "
+          }
+        }
+      }
+    },
+    "NOTIFICATION_PERMISSIONS_BUTTON" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allow Notifications"
+          }
+        }
+      }
+    },
+    "NOTIFICATION_PERMISSIONS_DESCRIPTION" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The app will send you notifications to remind you about your upcoming appointments and scheduled questionnaires."
+          }
+        }
+      }
+    },
+    "NOTIFICATION_PERMISSIONS_TITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notifications"
+          }
+        }
+      }
+    },
+    "Now" : {
+
+    },
+    "Onboarding Questionnaire" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Onboarding Questionnaire"
+          }
+        }
+      }
+    },
+    "ONBOARDING_CAPTION" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please complete the Onboarding questionnaire before your first appointment."
+          }
+        }
+      }
+    },
+    "ONBOARDING_INSTRUCTION" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You may skip this step during the onboarding and fill it out before your first appointment."
+          }
+        }
+      }
+    },
+    "ONBOARDING_QUESTIONNAIRE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Static information on basic profile info"
+          }
+        }
+      }
+    },
+    "ONBOARDING_SUBTITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please fill out this onboarding survey to collect your basic information."
+          }
+        }
+      }
+    },
+    "ONBOARDING_TITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Onboarding Questionnaire"
+          }
+        }
+      }
+    },
+    "Open in Apple Maps" : {
+
+    },
+    "Oxygen Saturation (precent)" : {
+
+    },
+    "PERIOD" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "."
+          }
+        }
+      }
+    },
+    "Personal Information" : {
+
+    },
+    "PHQ-4_DESCRIPTION" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tell us about your Mental and Emotional Health every 2 weeks..."
+          }
+        }
+      }
+    },
+    "PHQ-4_TITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PHQ-4: Patient Psychological Health Questionnaire"
+          }
+        }
+      }
+    },
+    "Preview Title" : {
+
+    },
+    "Preview x axis" : {
+
+    },
+    "Preview y axis" : {
+
+    },
+    "PROJECT_LICENSE_DESCRIPTION" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This project is licensed under the MIT License."
+          }
+        }
+      }
+    },
+    "Reaction Time" : {
+
+    },
+    "REACTIONTIME_TEST" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reaction Time Test"
+          }
+        }
+      }
+    },
+    "REACTIONTIME_VIZ_TITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reaction Time Results"
+          }
+        }
+      }
+    },
+    "Recommended Step Count" : {
+
+    },
+    "Repository Link" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Repository Link"
+          }
+        }
+      }
+    },
+    "REQUIRED_ITEMS_1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Health Insurance Card"
+          }
+        }
+      }
+    },
+    "REQUIRED_ITEMS_2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Referral from your Family Doctor to the University Outpatient Clinic for\nAnesthesia/Intensive Care Medicine"
+          }
+        }
+      }
+    },
+    "REQUIRED_ITEMS_3" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Current Laboratory Tests"
+          }
+        }
+      }
+    },
+    "REQUIRED_ITEMS_4" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Current Medication Schedule"
+          }
+        }
+      }
+    },
+    "REQUIRED_ITEMS_5" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Current Examination Findings (e.g. X-rays, ultrasound, ECG, echocardiography,\nlung function)"
+          }
+        }
+      }
+    },
+    "REQUIRED_ITEMS_6" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Doctor's Letter from the Rehabilitation Facility"
+          }
+        }
+      }
+    },
+    "REQUIRED_ITEMS_7" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(if available) Doctor's Letters/Reports from Other Specialties and Therapies (e.g.\ncardiology, pulmonology, neurology, physiotherapy/occupational therapy)"
+          }
+        }
+      }
+    },
+    "REQUIRED_ITEMS_HEADING" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Required Items"
+          }
+        }
+      }
+    },
+    "RESCHEDULE_BUTTON_LABEL" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit Details"
+          }
+        }
+      }
+    },
+    "Retake Assessment" : {
+
+    },
+    "SAVE_BUTTON" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save Changes"
+          }
+        }
+      }
+    },
+    "SCHEDULE_LIST_TITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Questionnaires"
+          }
+        }
+      }
+    },
+    "SCHEDULE_TAB_TITLE" : {
+      "comment" : "MARK: - Schedule",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Questionnaires"
+          }
+        }
+      }
+    },
+    "Skip" : {
+
+    },
+    "Start Assessment" : {
+
+    },
+    "Start Questionnaire" : {
+
+    },
+    "Step Count" : {
+
+    },
+    "STREET_ADDRESS" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Augustenburger Platz 1"
+          }
+        }
+      }
+    },
+    "Stroop Test" : {
+
+    },
+    "STROOP_VIZ_TITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stroop Test Results"
+          }
+        }
+      }
+    },
+    "Take Questionnaire" : {
+
+    },
+    "TASK_CONTEXT_ACTION_QUESTIONNAIRE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start Questionnaire"
+          }
+        }
+      }
+    },
+    "TASK_CONTEXT_ACTION_TEST" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start Test"
+          }
+        }
+      }
+    },
+    "TASK_LABEL %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Task: %@"
+          }
+        }
+      }
+    },
+    "TASK_PROM_QUESTIONNAIRE_DESCRIPTION" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please fill out the Patient-Reported Outcome Measures Assessment (PROM) questionnaire every 2 weeks."
+          }
+        }
+      }
+    },
+    "TASK_PROM_QUESTIONNAIRE_TITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Patient-Reported Outcome Measures Assessment (PROM) Questionnaire"
+          }
+        }
+      }
+    },
+    "Test Title" : {
+
+    },
+    "This task has been completed!" : {
+
+    },
+    "This test measures your cognitive flexibility and processing speed." : {
+
+    },
+    "This test measures your speed and accuracy of response." : {
+
+    },
+    "This test measures your visual attention and task switching." : {
+
+    },
+    "Threshold" : {
+
+    },
+    "Time" : {
+
+    },
+    "TIMELINE_TITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your Timeline"
+          }
+        }
+      }
+    },
+    "TM_VIZ_TITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trail Making Test Results"
+          }
+        }
+      }
+    },
+    "Trail Making" : {
+
+    },
+    "TRAIL_MAKING_TEST_TITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trail Making Test"
+          }
+        }
+      }
+    },
+    "Upload Photo" : {
+
+    },
+    "WEIGHT" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weight"
+          }
+        }
+      }
+    },
+    "WELCOME_AREA1_DESCRIPTION" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Displays the results and trends of the filled questionnaires to the patients as visual feedback to increase adherence."
+          }
+        }
+      }
+    },
+    "WELCOME_AREA1_TITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Representing"
+          }
+        }
+      }
+    },
+    "WELCOME_AREA2_DESCRIPTION" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To collect vitals data that can be used as objective data to complement the results of PROMs"
+          }
+        }
+      }
+    },
+    "WELCOME_AREA2_TITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Collecting"
+          }
+        }
+      }
+    },
+    "WELCOME_AREA3_DESCRIPTION" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The ability to share the data with established in-hospital documentation systems or to display the data in a dashboard"
+          }
+        }
+      }
+    },
+    "WELCOME_AREA3_TITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sharing"
+          }
+        }
+      }
+    },
+    "WELCOME_BUTTON" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Learn More"
+          }
+        }
+      }
+    },
+    "WELCOME_SUBTITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Provides you medical care at home by:"
+          }
+        }
+      }
+    },
+    "WELCOME_TITLE" : {
+      "comment" : "MARK: Welcome",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Post Intensive Care Syndrome App"
+          }
+        }
+      }
+    },
+    "ZIP_CITY" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "13353 Berlin"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
