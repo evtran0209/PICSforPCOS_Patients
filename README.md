@@ -1,7 +1,5 @@
 # PICSforPCOS_Patients
 
-# PICSforPCOS_Patients
-
 <!--
 
 This source file is part of the PICS based on the Stanford Spezi Template Application project
@@ -11,8 +9,6 @@ SPDX-FileCopyrightText: 2024 Stanford University
 SPDX-License-Identifier: MIT
 
 -->
-
-# PICS for PCOS Patients Features
 
 This repository contains the CS342 2024 PICS application.
 This PICS for PCOS Patients application is using the [Spezi](https://github.com/StanfordSpezi/Spezi) ecosystem and builds on top of the [Stanford Spezi Template Application](https://github.com/StanfordSpezi/SpeziTemplateApplication).
